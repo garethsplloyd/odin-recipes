@@ -1,0 +1,15 @@
+odin-recipes/
+├── images
+├── index.html
+├── README.md
+└── recipes
+    ├── recipe1.html
+    ├── recipe2.html
+    └── recipe3.html
+
+3 directories, 5 files
+
+Assignment,
+-README.md, brief introduction and narrative of the project. Expectations and reflections.
+-index.html,h1 heading Odin Recipes
+ 
